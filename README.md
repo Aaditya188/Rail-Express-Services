@@ -3,8 +3,6 @@ Railway Facilities During Journey
 
 # Submission by Team NEXUS for Frost Hack
 
-Totally B2C Model
-
 <h2 align= "left"><b>Our Product</b></h2>
 
 We NEXUS present before you,<b>"Rail-Express Services"</b>.
