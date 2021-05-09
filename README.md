@@ -9,7 +9,7 @@ Totally B2C Model
 
 We NEXUS present before you,<b>"Rail-Express Services"</b>.
 
-<img width=40% src="logo.png"> &ensp;
+<img width=40% src="Screenshots/logo.jpeg"> &ensp;
 
 
 ## Our Inspirarion
