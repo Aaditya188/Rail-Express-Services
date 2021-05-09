@@ -54,7 +54,7 @@ Check the Documentation section for Video and PPT
 
 <h2 align= "left"><b>Meet Our Project Maintainers :</b></h2>
 <p align="left">
-  <img width=70% src="Screenshots/Team.jpeg"> &ensp;
+  <img width=70% src="Screenshots/team.jpeg"> &ensp;
   
   <h2 align= "left"><b>Demo Video and Website Link 👇</b></h2>
 
