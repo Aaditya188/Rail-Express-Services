@@ -48,7 +48,7 @@ Our website is more of a Indian Railways oriented.We provide catering ,medicatio
 <img width=40% src="Screenshots/18.JPG"> &ensp;
 
 ## Presentation 
-Check the Documentation section for Video and PPT
+Check the Screenshots folder for Site Screenshots and PPT
 
 
 ## Tech Stack
