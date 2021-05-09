@@ -30,17 +30,23 @@ Our website is more of a Indian Railways oriented.We provide catering ,medicatio
 
 <p align="left">  
 
-<img width=40% src="Screenshots/1.jpeg"> &ensp;
-<img width=40% src="Screenshots/2.jpeg"> &ensp;
-<img width=40% src="Screenshots/3.jpeg"> &ensp;
-<img width=40% src="Screenshots/4.jpeg"> &ensp;
-<img width=40% src="Screenshots/5.jpeg"> &ensp;
-<img width=40% src="Screenshots/6.jpeg"> &ensp;
-<img width=40% src="Screenshots/7.jpeg"> &ensp;
-<img width=40% src="Screenshots/8.jpeg"> &ensp;
-<img width=40% src="Screenshots/9.jpeg"> &ensp;
-<img width=40% src="Screenshots/10.jpeg"> &ensp;
-
+<img width=40% src="Screenshots/1.jpg"> &ensp;
+<img width=40% src="Screenshots/2.jpg"> &ensp;
+<img width=40% src="Screenshots/3.jpg"> &ensp;
+<img width=40% src="Screenshots/4.jpg"> &ensp;
+<img width=40% src="Screenshots/5.jpg"> &ensp;
+<img width=40% src="Screenshots/6.jpg"> &ensp;
+<img width=40% src="Screenshots/7.jpg"> &ensp;
+<img width=40% src="Screenshots/8.jpg"> &ensp;
+<img width=40% src="Screenshots/9.jpg"> &ensp;
+<img width=40% src="Screenshots/10.jpg"> &ensp;
+<img width=40% src="Screenshots/10.jpg"> &ensp;
+<img width=40% src="Screenshots/10.jpg"> &ensp;
+<img width=40% src="Screenshots/10.jpg"> &ensp;
+<img width=40% src="Screenshots/10.jpg"> &ensp;
+<img width=40% src="Screenshots/10.jpg"> &ensp;
+<img width=40% src="Screenshots/10.jpg"> &ensp;
+<img width=40% src="Screenshots/10.jpg"> &ensp;
 
 ## Presentation 
 Check the Documentation section for Video and PPT
@@ -54,7 +60,7 @@ Check the Documentation section for Video and PPT
 
 <h2 align= "left"><b>Meet Our Project Maintainers :</b></h2>
 <p align="left">
-  <img width=70% src="Screenshots/team.jpeg"> &ensp;
+  <img width=70% src="Screenshots/team.jpg"> &ensp;
   
   <h2 align= "left"><b>Demo Video and Website Link 👇</b></h2>
 
