@@ -19,7 +19,7 @@ Well not any more because we are bringing all this facilities with top class ser
 2. Or You can Simply go to our website, we have provided link of website at the bottom of this README.md file.
  
 
-# WHAT YOU WILL EXPERIECNE ?
+# WHAT YOU WILL EXPERIENCE ?
 Your destination is our Priority with the Excellence
 
 Our website is more of a Indian Railways oriented.We provide catering ,medication,coolie all at one place .We provide you we the top services according to your location .We provide you the best services at best price. Our website is easy to use.
